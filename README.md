@@ -22,6 +22,9 @@ starts. Updates are checked against a signature before they're installed.
 
 ## Set up your budget
 
+Want to look around first? On the start screen, choose **Try the example budget**: a
+made-up household with paychecks, bills and savings, kept apart from your own.
+
 1. **Create a household.** Choose an empty folder for it. To use the budget on more than one
    PC, choose a folder in OneDrive, Dropbox or Google Drive.
 2. **Choose a passphrase** (a few words you'll remember) and **print the recovery sheet**.
