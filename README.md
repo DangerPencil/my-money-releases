@@ -50,6 +50,8 @@ privacy in the app.
 ## Problems?
 
 Help → **Report a problem…** saves a text file describing what went wrong, with none of your
-budget in it. Send it to whoever gave you My Money.
+budget in it. Email it to **mymoney.supportdesk@gmail.com** with the file attached; you'll
+get a ticket number back. Never send your passphrase, PIN or bank details: nobody needs them
+to help you.
 
 My Money isn't financial advice and comes with no warranty. See the license in the app.
